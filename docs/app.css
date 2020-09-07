@@ -1,0 +1,20 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.w3-bar,
+h1,
+button {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.fa-flag,
+.fa-exclamation {
+  font-size: 200px;
+}
